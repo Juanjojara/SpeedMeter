@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeedMeter</string>
+    <string name="initial_spped">0.0 m/s</string>
+</resources>
